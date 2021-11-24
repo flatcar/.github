@@ -9,3 +9,5 @@
 ## Testing done
 
 [Describe the testing you have done before submitting this PR. Please include both the commands you issued as well as the output you got.]
+
+- [ ] Changelog entries added in the respective `changelog/` directory (user-facing change, bug fix, security fix, update)
