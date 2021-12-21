@@ -19,7 +19,7 @@ assignees: ''
 
 [ Please describe the future situation after the improvement was implemented ]
 
-## **Implementation options
+## Implementation options
 
 [ Optional: please provide one or more options for implementing the feature requested ]
 
