@@ -18,6 +18,7 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 - [ ] Generate manifest ()
 - [ ] Start Jenkins builds ()
 - [ ] Test status captured in test status tracker ()
+- [ ] Create SDK container after Jenkins is done building the flatcar-sdk tarball; upload container to ghcr.io
 - [ ] All tests are green ()
 - [ ] Archive TAP report, create Go / No Go doc ()
 - [ ] Release notes / announcements added to Go/No Go doc ()
