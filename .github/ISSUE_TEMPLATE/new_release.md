@@ -38,3 +38,4 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 - [ ] Update CloudFormation templates ()
 - [ ] Release package published in Nebraska ()
 - [ ] Send announcement to Mailing Lists, and tweet out! (@miao0miao, @ahrkrak)
+- [ ] Brief version announcement in slack (k8s slack #flatcar) and the Flatcar matrix channel
