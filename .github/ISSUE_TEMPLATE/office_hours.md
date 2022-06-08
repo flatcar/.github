@@ -1,5 +1,5 @@
 ---
-name: COffice Hours plan
+name: Office Hours plan
 about: Creating a Office Hours Agenda
 title: 'Office Hours <Date>'
 labels: "kind/office_hours"
