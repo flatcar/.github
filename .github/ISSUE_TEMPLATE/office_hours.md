@@ -1,8 +1,8 @@
 ---
-name: Community call plan
-about: Creating a Community call Agenda
-title: 'Community Call <Date>'
-labels: "kind/community_call"
+name: COffice Hours plan
+about: Creating a Office Hours Agenda
+title: 'Office Hours <Date>'
+labels: "kind/office_hours"
 assignees: ''
 ---
   
@@ -14,4 +14,4 @@ assignees: ''
   - [ ] 1h before meeting: announce in matrix (w/ Zoom link) @[owner]
   - [ ] Start meeting, add recording link to agenda @[owner]
   - [ ] conduct meeting @[owner]
-  - [ ] after meeting, add slides (PDF) to agenda @[owner]
+
