@@ -27,7 +27,6 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 - [ ] Update the SDK release metadata for new major Alpha releases with SDK builds (only new major) ()
 - [ ] Images uploaded with `copy-to-origin.sh` ()
 - [ ] Run the `os/release` job ()
-- [ ] Publish EC2 Marketplace Images ()
 - [ ] Azure offer updated & publishing started ()
 - [ ] Azure Go Live ()
 - [ ] GCP offers updated ()
