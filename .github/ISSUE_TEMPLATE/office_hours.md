@@ -11,7 +11,7 @@ assignees: ''
   - [ ] 1 week before meeting: Tweet "ask for input" @[owner] w/ link to agenda PR (so people can add topcis)
   - [ ] Monday before meeting: Finish and merge Agenda @[owner]
   - [ ] Monday before meeting: Tweet announcement @[owner]
-  - [ ] 1h before meeting: announce in matrix (w/ Zoom link) @[owner]
+  - [ ] 1h before meeting: announce in matrix (w/ Jitsi link) @[owner]
   - [ ] Start meeting, add recording link to agenda @[owner]
   - [ ] conduct meeting @[owner]
 
