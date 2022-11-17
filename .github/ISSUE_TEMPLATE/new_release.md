@@ -21,7 +21,7 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 - [ ] Release notes / announcements added to Go/No Go doc from `container/image_changes` job by selecting `Timestamps: None` ()
 - [ ] QA: check diff for image file list, packages, and image size in the image job output ()
 - [ ] Matrix Go/No Go meeting (inc. release notes review) ()
-- [ ] Update payload signed/published ()
+- [ ] Update payload signed/uploaded ()
 - [ ] `scripts` release created on GitHub ()
 - [ ] Release job `container/release` ran ()
 - [ ] Images uploaded with `copy-to-origin.sh` ()
