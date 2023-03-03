@@ -6,7 +6,7 @@ labels: "kind/release"
 assignees: '@sayanchowdhury'
 ---
 
-## Release Flatcar Container Linux <Alpha-VERSION> [<Beta-VERSION>] [>Stable-VERSION>]
+## Release Flatcar Container Linux <Alpha-VERSION> [<Beta-VERSION>] [<Stable-VERSION>]
   
 The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for <MONTH> <DAY>, <YEAR>. 
 
@@ -28,6 +28,8 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 - [ ] Azure offer updated & publishing started ()
 - [ ] Azure Go Live ()
 - [ ] GCP offers updated ()
+- [ ] For new Stable: Manually run `./azure-sig.sh` to create new Shared Community Gallery Images
+- [ ] For new Stable: build and provide images for supported Cluster API providers ()
 - [ ] Symlink to "current" updated with `set-symlink.sh` ()
 - [ ] Website updated with `./update-flatcar-versions.sh` and PR merged ()
 - [ ] Release package published in Nebraska ()
