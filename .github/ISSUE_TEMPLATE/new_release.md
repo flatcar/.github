@@ -12,6 +12,7 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 
 ### Tasks
 - [ ] Go / No Go [hackmd doc](https://hackmd.io/team/flatcar?nav=overview) created from previous one for test tracking and release notes: [link](TODO) ()
+- [ ] Check that the kernel PR are merged for the channel(s) to be released. ()
 - [ ] All planned changes are merged & blocker bugs are fixed, last nightly reviewed for problems ()
 - [ ] Branch off main (only new major) ()
 - [ ] Tag build branch ()
