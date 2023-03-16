@@ -28,7 +28,9 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 - [ ] Images uploaded with `copy-to-origin.sh` ()
 - [ ] Azure offer updated & publishing started ()
 - [ ] Azure Go Live ()
-- [ ] GCP offers updated ()
+- [ ] GCP Offer deployment package uploaded to Google bucket and submitted for verification ()
+- [ ] GCP Offer submit for verification ()
+- [ ] GCP Offer Publish ()
 - [ ] For new Stable: Manually run `./azure-sig.sh` to create new Shared Community Gallery Images
 - [ ] For new Stable: build and provide images for supported Cluster API providers ()
 - [ ] Symlink to "current" updated with `set-symlink.sh` ()
