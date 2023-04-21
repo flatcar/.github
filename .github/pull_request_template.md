@@ -12,3 +12,5 @@
 
 - [ ] Changelog entries added in the respective `changelog/` directory (user-facing change, bug fix, security fix, update)
 - [ ] Inspected CI output for image differences: `/boot` and `/usr` size, packages, list files for any missing binaries, kernel modules, config files, kernel modules, etc.
+
+<!-- For coreos-overlay ebuild modifications that include a CROS_WORKON_COMMIT bump, did you bump too the ebuild revision ? -->
