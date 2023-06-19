@@ -1,7 +1,7 @@
 ---
 name: Security Issue
-about: Creating a public security issue. For embargoed issues, private disclosure or in case of doubt: contact security@flatcar-linux.org
-title: "update: <software>"
+about: "Creating a public security issue. For embargoed issues, private disclosure or in case of doubt contact security@flatcar-linux.org"
+title: "update: [software]"
 labels: ["advisory", "security"]
 assignees: ''
 ---
