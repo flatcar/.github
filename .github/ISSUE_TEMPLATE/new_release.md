@@ -31,8 +31,9 @@ The release of Flatcar Container Linux <VERSION> [<VERSION> ...] is planned for 
 - [ ] GCP Offer deployment package uploaded to Google bucket and submitted for verification ()
 - [ ] GCP Offer submit for verification ()
 - [ ] GCP Offer Publish ()
-- [ ] For new Stable: Manually run `./azure-sig.sh` to create new Shared Community Gallery Images
-- [ ] For new Stable: build and provide images for supported Cluster API providers ()
+- [ ] CAPI for new Stable:
+  - [ ] Azure: Manually run `./azure-sig.sh` to create New Shared Community Gallery Images
+  - [ ] OpenStack: [documentation](https://gist.github.com/tormath1/acbae5c6cd12420bb8ea137e25655c99)
 - [ ] Symlink to "current" updated with `set-symlink.sh` ()
 - [ ] Website updated with `./update-flatcar-versions.sh` and PR merged ()
 - [ ] Release package published in Nebraska ()
