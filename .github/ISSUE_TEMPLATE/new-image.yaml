@@ -1,0 +1,46 @@
+---
+name: New image format request
+description: Suggest a new Flatcar image format for a cloud provider or a platform
+labels: ["kind/feature"]
+title: '[RFE]'
+body:
+- type: markdown
+  attributes:
+    value: "# General information"
+- type: input
+  attributes:
+    label: Cloud provider or platform name
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Cloud provider or platform website
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Cloud provider or platform Go SDK URL
+    description: This can be used to integrate the Mantle test suite.
+  validations:
+    required: false
+- type: markdown
+  attributes:
+    value: "# Engineering information"
+- type: checkboxes
+  attributes:
+    label: Image format
+    description: Which image type should be produced
+    options:
+      - label: "RAW"
+      - label: "QCOW2"
+- type: textarea
+  attributes:
+    label: Content of the OEM sysext image
+    description: Does the platform or cloud provider expect specific software to be available on the image (e.g open-vm-tools for VMWare)
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional information
+  validations:
+    required: false
