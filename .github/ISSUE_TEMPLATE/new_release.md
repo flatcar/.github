@@ -80,5 +80,5 @@ Owner:
 Owner:
 
 - [ ] A. Sent announcement to Mailing Lists
-- [ ] B. Sent Tweet out to Twitter, and Toot out to Mastodon
+- [ ] B. Sent Tweet out to X (Twitter), and Toot out to Mastodon
 - [ ] C. Brief version announcement in slack (k8s slack #flatcar) and the Flatcar Matrix channel
