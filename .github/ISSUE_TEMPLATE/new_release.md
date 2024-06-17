@@ -66,7 +66,6 @@ Owner:
 
 - A. Azure
     - [ ] Offers updated and started publishing.
-    - [ ] Sent the offers to publish to Live.
 
 - B. GCP
     - [ ] Offer deployment package uploaded to Google Bucket & submit for verification.
