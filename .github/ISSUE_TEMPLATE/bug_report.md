@@ -17,7 +17,7 @@ assignees: ''
 
 ## Environment and steps to reproduce
 
-1. **Set-up**: [ describe the environment Flatcar/Lokomotive/Nebraska etc was running in when encountering the bug; Platform etc. ]
+1. **Set-up**: [ describe the environment Flatcar/Nebraska etc was running in when encountering the bug; Platform etc. ]
 2. **Task**: [ describe the task performing when encountering the bug ]
 3. **Action(s)**: [ sequence of actions that triggered the bug, see example below ]
   a. [ requested the start of a new pod or container ]
