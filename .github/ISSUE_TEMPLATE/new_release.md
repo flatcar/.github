@@ -47,8 +47,8 @@ Owner:
 
 Owner:
 
-- [ ] A. Created the Release Notes on the `scripts` repo for the respective tags on GitHub as GitHub Releases.
-- [ ] B. Ran the `container/release` Release job.
+- [ ] A. Ran the `container/release` Release job.
+- [ ] B. Created the Release Notes on the `scripts` repo for the respective tags on GitHub as GitHub Releases.
 - [ ] C. Images uploaded with `copy-to-origin.sh`.
 - [ ] D. Symlink to "current" updated with `set-symlink.sh`.
 - [ ] E. Website updated with `./update-flatcar-versions.sh` and PR merged.
