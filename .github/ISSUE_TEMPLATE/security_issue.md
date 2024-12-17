@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 **Name**: <software>
-**CVEs**: [<CVE-ID>](https://nvd.nist.gov/vuln/detail/<CVE-ID>)
+**CVEs**: [<CVE-ID>](https://www.cve.org/CVERecord?id=<CVE-ID>)
 **CVSSs**: <score>
 **Action Needed**: TBD
 
