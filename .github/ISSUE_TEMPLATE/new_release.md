@@ -51,7 +51,7 @@ Owner:
 - [ ] B. Created the Release Notes on the `scripts` repo for the respective tags on GitHub as GitHub Releases.
 - [ ] C. Images uploaded with `copy-to-origin.sh`.
 - [ ] D. Symlink to "current" updated with `set-symlink.sh`.
-- [ ] E. Website updated with `./update-flatcar-versions.sh` and PR merged.
+- [ ] E. Website updated with [Flatcar releases PR Github Actions](https://github.com/flatcar/flatcar-website/actions/workflows/flatcar-releases-pr.yml) and PR merged.
 
 ### iii. Payload
 
