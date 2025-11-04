@@ -38,10 +38,10 @@ Owner:
 
 - [ ] A. Test status captured in the HackMD document.
 - [ ] B. All tests are Green.
-- [ ] C. Release notes / announcements added to Go/No Go doc from `container/image_changes` job by selecting `Timestamps: None`.
-- [ ] D. QA: Checked the diff for image file list, packages, and image size in the `container/image_changes` job output.
-- [ ] E. Conduct Matrix Go/No Go meeting (inc. release notes review).
-
+- [ ] C. Update payload signed/uploaded (can be done as soon as images are available on `bincache.flatcar-linux.net`)
+- [ ] D. Release notes / announcements added to Go/No Go doc from `container/image_changes` job by selecting `Timestamps: None`.
+- [ ] E. QA: Checked the diff for image file list, packages, and image size in the `container/image_changes` job output.
+- [ ] F. Conduct Matrix Go/No Go meeting (inc. release notes review).
 
 ### ii. Artifacts goes public
 
@@ -50,17 +50,11 @@ Owner:
 - [ ] A. Ran the `container/release` Release job.
 - [ ] B. Created the Release Notes on the `scripts` repo for the respective tags on GitHub as GitHub Releases.
 - [ ] C. Images uploaded with `copy-to-origin.sh`.
-- [ ] D. Symlink to "current" updated with `set-symlink.sh`.
+- [ ] D. Symlink to "current" updated with `set-symlink.sh`. (Prerequisite: 3.i.C must be marked done)
 - [ ] E. Website updated with [Flatcar releases PR Github Actions](https://github.com/flatcar/flatcar-website/actions/workflows/flatcar-releases-pr.yml) and PR merged.
+- [ ] F. Release package published in Nebraska
 
-### iii. Payload
-
-Owner:
-
-- [ ] A. Update payload signed/uploaded.
-- [ ] B. Release package published in Nebraska (Prerequisite: 3.ii.E should marked done).
-
-### iv. Cloud Marketplace & Cluster API
+### iii. Cloud Marketplace & Cluster API
 
 Owner:
 
