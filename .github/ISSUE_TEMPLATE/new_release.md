@@ -49,9 +49,9 @@ Owner:
 
 - [ ] A. Ran the `container/release` Release job.
 - [ ] B. Created the Release Notes on the `scripts` repo for the respective tags on GitHub as GitHub Releases.
-- [ ] D. Symlink to "current" updated with `set-symlink.sh`. (Prerequisite: 3.i.C must be marked done)
-- [ ] E. Website updated with [Flatcar releases PR Github Actions](https://github.com/flatcar/flatcar-website/actions/workflows/flatcar-releases-pr.yml) and PR merged.
-- [ ] F. Release package published in Nebraska
+- [ ] C. Update `channel-info.txt` (Prerequisite: 3.i.C must be marked done)
+- [ ] D. Website updated with [Flatcar releases PR Github Actions](https://github.com/flatcar/flatcar-website/actions/workflows/flatcar-releases-pr.yml) and PR merged.
+- [ ] E. Release package published in Nebraska
 
 ### iii. Cloud Marketplace & Cluster API
 
