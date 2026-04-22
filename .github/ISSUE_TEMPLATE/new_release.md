@@ -1,7 +1,7 @@
 ---
 name: New Flatcar Release
 about: Tracking issue for releasing a new Flatcar major version.
-title: 'Release Flatcar Container Linux <VERSION> [<VERSION>] [...]'
+title: 'Release Flatcar Container Linux <MONTH> <YEAR> - ALPHA <VERSION>, BETA <VERSION>. STABLE <VFERSION>, LTS <VERSION>'
 labels: "kind/release"
 assignees: '@sayanchowdhury'
 ---
@@ -12,6 +12,13 @@ The release of the following Flatcar Container Linux version is planning <MONTH>
 - Beta <VERSION>
 - Stable <VERSION>
 - LTS <VERSION>
+
+# Release team
+
+- Coordinator: **TBD WHEN ISSUE IS CREATED** ==> [See Release Coordination Schedule](https://hackmd.io/RbP4weCjQpC9xEWKOlTWgA?view#Current-Release-Schedule)
+- Preparation and Build: **TBD by coordinator**
+- Test results / Go/No Go: **TBD by coordinator**
+- Artifacts Publishing and Marketplaces: **TBD by coordinator**
 
 ## 1. Preparation
 
