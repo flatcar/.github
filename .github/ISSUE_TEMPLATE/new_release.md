@@ -74,7 +74,6 @@ Owner:
 
 - C. Cluster API for new Stable
   - [ ] Azure: Manually run `./azure-sig.sh` to create New Shared Community Gallery Images
-  - [ ] OpenStack: [documentation](https://gist.github.com/tormath1/acbae5c6cd12420bb8ea137e25655c99)
 
 ## 4. Announcements
 
