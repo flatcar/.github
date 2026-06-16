@@ -81,4 +81,4 @@ Owner:
 
 - [ ] A. Sent announcement to Mailing Lists
 - [ ] B. Sent announcement out to X, Mastodon and Bluesky
-- [ ] C. Brief version announcement in slack (k8s slack #flatcar) and the Flatcar Matrix channel
+- [ ] C. Brief version announcement in Slack (k8s slack #flatcar) and in Discord ('Announcements' channel)
