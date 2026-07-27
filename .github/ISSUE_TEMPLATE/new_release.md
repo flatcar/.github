@@ -48,7 +48,7 @@ Owner:
 - [ ] C. Update payload signed/uploaded (can be done as soon as images are available on `bincache.flatcar-linux.net`)
 - [ ] D. Release notes / announcements added to Go/No Go doc from `container/image_changes` job by selecting `Timestamps: None`.
 - [ ] E. QA: Checked the diff for image file list, packages, and image size in the `container/image_changes` job output.
-- [ ] F. Conduct Matrix Go/No Go meeting (inc. release notes review).
+- [ ] F. Conduct Discord Go/No Go meeting (inc. release notes review).
 
 ### ii. Artifacts goes public
 
